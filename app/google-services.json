@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146015463459",
+    "project_id": "kalah47",
+    "storage_bucket": "kalah47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146015463459:android:ca1180fd68aed057cb6996",
+        "android_client_info": {
+          "package_name": "com.example.kalah47"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhxdfcw8bKLMdkBvG2zcOYoSxynwpYaRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

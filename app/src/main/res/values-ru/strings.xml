@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalah47</string>
+    <string name="root_title">Калах</string>
+    <string name="start_local_game">Одиночная игра</string>
+    <string name="start_bot_game">Одиночная игра с ботом</string>
+    <string name="online_mode">Онлайн игра</string>
+    <string name="about_system">О системе</string>
+    <string name="about_developers">О разработчиках</string>
+    <string name="settings_title">Настройки</string>
+    <string name="settting_theme">Тема оформления</string>
+    <string name="setting_pit_count">Количество лунок</string>
+    <string name="setting_jewel_count">Количество камушков в лунке</string>
+    <string name="setting_bot_mode">Настройка игры с ботом</string>
+    <string name="setting_bot_first_player">Первым ходит</string>
+    <string name="setting_bot_level">Уровень сложности</string>
+    <string name="setting_bot_firstmove_player">Игрок</string>
+    <string name="setting_bot_firstmove_bot">Бот</string>
+    <string name="online_nickname_placeholder">Введите никнейм</string>
+    <string name="online_nickname_title">Никнейм</string>
+    <string name="online_create_lobby">Создать сессию</string>
+    <string name="online_create_lobby_button">Создать сессию</string>
+    <string name="online_text_or_join">Или присоединитесь к существующей</string>
+    <string name="online_join_button">Присоединиться</string>
+    <string name="online_join_textfield_placeholder">Идентификатор</string>
+    <string name="online_join_error_not_exist">Сессии с таким идентификатором не существует</string>
+    <string name="game_rules">Правила игры</string>
+    <string name="game_info_winner">Победил %s</string>
+    <string name="game_info_move">Ход %s</string>
+    <string name="game_info_waiting_second_player">Ожидание второго игрока</string>
+    <string name="game_info_second_player_left">Второй игрок вышел</string>
+    <string name="online_nickname_short_nick">Длина никнейма должна быть больше %s</string>
+    <string name="online_nickname_long_nick">Длина никнейма должна быть меньше %s</string>
+    <string name="online_join_error_length">Длина идентификатора сессии должна быть равна 5</string>
+    <string name="online_join_error_invalid_symbol">Идентификатор сессии должен состоять только из цифр</string>
+    <string name="online_nickname_empty_nick">Никнейм не должен быть пустым</string>
+    <string name="online_nickname_invalid_symbols">Никнейм может состоять только из кириллицы, латиницы, цифр и нижнего подчеркивания</string>
+    <string name="bot_name">ИИ</string>
+    <string name="game_info_move_player">Игрока</string>
+    <string name="game_info_winner_player">Игрок</string>
+    <string name="game_info_draw">Ничья</string>
+</resources>
